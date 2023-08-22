@@ -56,7 +56,6 @@
     <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/inquery/urls.py" />
     <jump line="7" column="0" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/inquery/urls.py" />
     <jump line="9" column="0" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/inquery/urls.py" />
-    <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/inquery/urls.py" />
     <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/authentication/models.py" />
     <jump line="2" column="0" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/vidhyas_api/serializers.py" />
     <jump line="4" column="0" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/vidhyas_api/serializers.py" />
@@ -66,6 +65,7 @@
     <jump line="0" column="0" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/inquery/models.py" />
     <jump line="102" column="19" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/templates/authentication/login.html" />
     <jump line="0" column="10" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/index/views.py" />
+    <jump line="6" column="0" filename="$USER_HOME$/Documents/GitHub/VidhyasDietERP/inquery/urls.py" />
   </component>
   <component name="VimMarksSettings">
     <globalmarks />

@@ -6,7 +6,7 @@
     <size key="GridCell.Tab.0.bottom.0.0.1920.1080" width="1080" height="299" />
   </component>
   <component name="WindowManager">
-    <frame x="1058" y="559" width="860" height="519" />
+    <frame x="0" y="0" width="1920" height="1080" />
   </component>
   <component name="WindowStateApplicationService">
     <state x="311" y="315" width="466" height="454" key="FileChooserDialogImpl" timestamp="1692545907269">

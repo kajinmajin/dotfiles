@@ -55,7 +55,7 @@
       <i c="8" l="1692597937617" />
     </e>
     <e n="EditorCopy">
-      <i c="7" l="1692711162433" />
+      <i c="10" l="1692731457416" />
     </e>
     <e n="EditorDeleteLine">
       <i c="6" l="1692711578354" />
@@ -126,6 +126,9 @@
     <e n="ExpandRegion">
       <i c="4" l="1692707004321" />
     </e>
+    <e n="FileChooser.ShowHidden">
+      <i c="1" l="1692731440309" />
+    </e>
     <e n="GotoAction">
       <i c="1" l="1692541575836" />
     </e>
@@ -157,7 +160,7 @@
       <i c="1" l="1692526052782" />
     </e>
     <e n="OpenFile">
-      <i c="2" l="1692595503944" />
+      <i c="3" l="1692731421561" />
     </e>
     <e n="PasteMultiple">
       <i c="12" l="1692596707424" />
@@ -200,6 +203,9 @@
     </e>
     <e n="Terminal.NewTab">
       <i c="3" l="1692711471707" />
+    </e>
+    <e n="Tree-selectNext">
+      <i c="2" l="1692731447424" />
     </e>
     <e n="Vcs.UpdateProject">
       <i c="1" l="1692597806229" />
@@ -253,7 +259,7 @@
       <i c="2" l="1692598190312" />
     </e>
     <e n="com.intellij.openapi.ui.DialogWrapper$4">
-      <i c="7" l="1692729614370" />
+      <i c="8" l="1692731461301" />
     </e>
     <e n="com.intellij.openapi.updateSettings.impl.UpdateSettingsEntryPointActionProvider$2">
       <i c="1" l="1692541445802" />
@@ -265,7 +271,7 @@
       <i c="31" l="1692598961622" />
     </e>
     <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
-      <i c="10" l="1692598272223" />
+      <i c="11" l="1692731416540" />
     </e>
     <e n="com.intellij.openapi.wm.impl.welcomeScreen.ActionGroupPanelWrapper$6">
       <i c="2" l="1692545870770" />

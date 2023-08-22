@@ -5,6 +5,7 @@
   </component>
   <component name="PropertyService"><![CDATA[{
   "keyToString": {
+    "FileChooser.ShowPath": "true",
     "InstalledPluginsSearchHistory": "/tag:Keymap",
     "KEYMAP": "terminal",
     "MarketplacePluginsSearchHistory": "/tag:Keymap",
@@ -41,6 +42,7 @@
   },
   "keyToStringList": {
     "file.chooser.recent.files": [
+      "/home/eos/.ssh/id_rsa.pub",
       "/home/eos/Documents/GitHub/VidhyasDietERP/venv/bin/python3.11",
       "/home/eos/Documents/GitHub/VidhyasDietERP",
       "/home/eos/Documents",
@@ -62,15 +64,15 @@
     "SpeedSearch": 1692594730684,
     "SearchEverywhere": 1692541268790,
     "CommentCode": 1692541330306,
-    "ShowUsages": 1692683500818,
     "FindReplaceToggle": 1692541342699,
+    "ShowUsages": 1692683500818,
     "FindInPath": 1692728528351
   }
 }]]></component>
   <component name="TerminalCommandHistoryManager">
     <command-history-files>
       <command-history-file filename="GitHub-history8" project-path="$USER_HOME$/Documents/GitHub" last-access-time="1692534060251" />
-      <command-history-file filename="VidhyasDietERP-history" project-path="$USER_HOME$/Documents/GitHub/VidhyasDietERP" last-access-time="1692729517385" />
+      <command-history-file filename="VidhyasDietERP-history" project-path="$USER_HOME$/Documents/GitHub/VidhyasDietERP" last-access-time="1692731413935" />
       <command-history-file filename="pythonProject-history" project-path="$USER_HOME$/PycharmProjects/pythonProject" last-access-time="1692595178187" />
       <command-history-file filename="tuto-history" project-path="$USER_HOME$/Documents/GitHub/tuto" last-access-time="1692541262188" />
     </command-history-files>

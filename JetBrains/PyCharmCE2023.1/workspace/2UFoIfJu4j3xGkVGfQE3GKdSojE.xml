@@ -18,11 +18,6 @@
         </entry>
       </file>
       <file current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/authentication/views.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/vidhyas_api/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="352">
@@ -43,11 +38,20 @@
           </provider>
         </entry>
       </file>
-      <file>
+      <file current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/inquery/urls.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
+            <state relative-caret-position="2">
               <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="22">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -89,13 +93,16 @@
   </component>
   <component name="FileTypeUsageLocalSummary">
     <fileType name="HTML">
-      <summary usageCount="12" lastUsed="1692729518254" />
+      <summary usageCount="13" lastUsed="1692731414508" />
     </fileType>
     <fileType name="Markdown">
       <summary usageCount="1" lastUsed="1692545057332" />
     </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="1" lastUsed="1692731448217" />
+    </fileType>
     <fileType name="Python">
-      <summary usageCount="94" lastUsed="1692729518758" />
+      <summary usageCount="103" lastUsed="1692731414882" />
     </fileType>
   </component>
   <component name="IdeDocumentHistory">
@@ -122,13 +129,16 @@
   </component>
   <component name="LanguageUsageStatistics">
     <language id="HTML">
-      <summary usageCount="12" lastUsage="1692729518254" />
+      <summary usageCount="13" lastUsage="1692731414508" />
     </language>
     <language id="Markdown">
       <summary usageCount="1" lastUsage="1692545057332" />
     </language>
     <language id="Python">
-      <summary usageCount="94" lastUsage="1692729518758" />
+      <summary usageCount="103" lastUsage="1692731414882" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="1" lastUsage="1692731448217" />
     </language>
   </component>
   <component name="ProjectView">
@@ -172,14 +182,14 @@
   <component name="ToolWindowManager">
     <layoutV2>
       <window_info id="Bookmarks" sideWeight="0.4989637" side_tool="true" weight="0.3303232" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5010363" visible="true" weight="0.19709302" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5010363" visible="true" weight="0.088281244" />
       <window_info id="Commit" order="1" weight="0.25" />
       <window_info id="Structure" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" show_stripe_button="false" weight="0.3296545" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Problems" order="1" />
       <window_info anchor="bottom" id="Problems View" order="2" weight="0.3747601" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.37475914" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.08935185" />
       <window_info anchor="bottom" id="Services" order="4" />
       <window_info anchor="bottom" id="Python Packages" order="5" weight="0.1" />
       <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
@@ -190,7 +200,7 @@
       <window_info anchor="right" id="Maven" order="3" weight="0.25" />
       <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
       <window_info anchor="right" id="SciView" order="5" weight="0.1" />
-      <unified_weights bottom="0.37475914" left="0.19709302" />
+      <unified_weights bottom="0.08935185" left="0.088281244" />
     </layoutV2>
     <recentWindows>
       <value>Terminal</value>
@@ -205,6 +215,10 @@
     <state x="275" y="318" key="FileChooserDialogImpl" timestamp="1692598934887">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
+    <state x="275" y="318" width="590" height="484" key="FileChooserDialogImpl.ideScale=110" timestamp="1692731448026">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="275" y="318" width="590" height="484" key="FileChooserDialogImpl.ideScale=110/0.0.1920.1080@0.0.1920.1080" timestamp="1692731448026" />
     <state x="275" y="318" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1692598934887" />
     <state width="1080" height="299" key="GridCell.Tab.0.bottom" timestamp="1692599457162">
       <screen x="0" y="0" width="1920" height="1080" />
@@ -407,8 +421,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inquery/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
+        <state relative-caret-position="2">
           <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ssh/id_rsa.pub">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
