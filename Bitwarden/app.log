@@ -1,0 +1,149 @@
+[2023-08-18 11:50:35.358] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.361] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.362] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.362] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.363] [info]  TypeError: Cannot read properties of undefined (reading 'deleteBiometricKey')
+    at BiometricsService.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47100:55)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47008:71
+    at new Promise (<anonymous>)
+    at biometrics_service_awaiter (/usr/lib/bitwarden/app.asar/main.js:47004:12)
+    at BiometricsService.deleteBiometricKey (/usr/lib/bitwarden/app.asar/main.js:47098:16)
+    at DesktopCredentialStorageListener.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:47282:45)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:47159:71
+    at new Promise (<anonymous>)
+[2023-08-18 11:50:35.372] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.372] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.374] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.390] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.391] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.414] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.419] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.420] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.421] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.422] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.466] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.475] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.638] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.643] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:35.811] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:36.648] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.593] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.610] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.630] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.659] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.707] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.861] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.873] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.874] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.882] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.892] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.900] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.908] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:37.915] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:38.290] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:40.992] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:41.003] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:50:50.981] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:51:00.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:51:10.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:51:20.980] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:51:30.981] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:51:40.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:51:50.981] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:52:00.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:52:10.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:52:20.981] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:52:30.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:52:40.981] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:52:50.980] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:53:00.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:53:10.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:53:20.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:53:28.523] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:53:30.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:53:40.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:53:50.981] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:54:00.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:54:10.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:54:20.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:54:30.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:54:40.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:54:50.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:54:58.517] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:54:58.528] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:54:59.290] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:00.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:04.522] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:06.573] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:09.646] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:09.834] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:10.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:11.546] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:11.742] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:13.027] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:13.258] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:13.459] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:13.918] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:19.584] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:20.981] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:23.039] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:23.247] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:23.427] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:23.622] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:23.826] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:23.960] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:28.075] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:28.295] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:30.981] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:35.421] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:40.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:48.534] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:48.684] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:55:50.981] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:56:00.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:56:10.979] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:56:20.981] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:56:30.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:56:40.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:56:50.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:57:00.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:57:10.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:57:20.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:57:30.980] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:57:40.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:57:50.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:58:00.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:58:10.984] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:58:20.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:58:30.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:58:40.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:58:50.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:59:00.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:59:10.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:59:20.980] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:59:30.980] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:59:40.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 11:59:50.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:00:00.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:00:10.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:00:20.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:00:30.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:00:40.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:00:50.984] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:01:00.983] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:01:10.980] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:01:20.982] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:01:30.980] [info]  Error: The name org.freedesktop.secrets was not provided by any .service files
+[2023-08-18 12:01:33.276] [error] TypeError: Object has been destroyed
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:46709:36)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:46483:71
+    at new Promise (<anonymous>)
+    at window_main_awaiter (/usr/lib/bitwarden/app.asar/main.js:46479:12)
+    at WindowMain.updateWindowState (/usr/lib/bitwarden/app.asar/main.js:46704:16)
+    at WindowMain.<anonymous> (/usr/lib/bitwarden/app.asar/main.js:46638:28)
+    at Generator.next (<anonymous>)
+    at /usr/lib/bitwarden/app.asar/main.js:46483:71
+    at new Promise (<anonymous>)

@@ -1,0 +1,228 @@
+2023-08-20T09:27:27.577Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-08-20T09:27:27.692Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:27:27.700Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-20T09:27:27.702Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-20T09:27:27.747Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:27:28.890Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:27:28.909Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:27:28.936Z - info: [ui] Opt in reported.
+2023-08-20T09:27:31.045Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2023-08-20T09:27:31.046Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-08-20T09:27:31.056Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=8958a5c4-c635-4937-9656-58946d1c99ac
+2023-08-20T09:27:31.057Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2023-08-20T09:27:33.452Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-08-20T09:27:41.640Z - info: [main] Received possible protocol arguments: 3
+2023-08-20T09:27:41.640Z - info: [main] Processing protocol url
+2023-08-20T09:27:41.641Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-08-20T09:27:41.643Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-08-20T09:27:41.729Z - info: [main] Received possible protocol arguments: 2
+2023-08-20T09:27:41.735Z - info: [main] Processing protocol url
+2023-08-20T09:27:43.176Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-08-20T09:27:43.583Z - info: [ui] [SignInStore] account resolved
+2023-08-20T09:27:43.584Z - info: [ui] [AppStore] adding account kajinmajin (kajinmajin) to store
+2023-08-20T09:27:43.591Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2023-08-20T09:27:43.649Z - error: [ui] Error adding account 'kajinmajin'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-08-20T09:27:43.657Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:28:01.931Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:28:02.229Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:28:04.041Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:28:04.079Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:28:04.089Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:28:14.026Z - info: [ui] [Welcome] advancing to step: Start
+2023-08-20T09:28:15.889Z - info: [ui] [Welcome] advancing to step: SignInToDotComWithBrowser
+2023-08-20T09:28:15.890Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-08-20T09:28:15.900Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=9d286310-cec3-4202-8d6c-fdc7937a3af6
+2023-08-20T09:28:15.901Z - info: [ui] [Welcome] current sign in state not found. ignoring...
+2023-08-20T09:28:16.984Z - info: [main] Received possible protocol arguments: 3
+2023-08-20T09:28:16.984Z - info: [main] Processing protocol url
+2023-08-20T09:28:16.985Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-08-20T09:28:16.991Z - info: [ui] [Welcome] kind Authentication is the same as Authentication. ignoring...
+2023-08-20T09:28:17.082Z - info: [main] Received possible protocol arguments: 2
+2023-08-20T09:28:17.087Z - info: [main] Processing protocol url
+2023-08-20T09:28:18.611Z - info: [ui] [SignInStore] account resolved
+2023-08-20T09:28:18.612Z - info: [ui] [AppStore] adding account kajinmajin (kajinmajin) to store
+2023-08-20T09:28:18.617Z - error: [ui] Error adding account 'kajinmajin'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-08-20T09:28:18.625Z - info: [ui] [Welcome] advancing to step: ConfigureGit
+2023-08-20T09:28:18.661Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:28:19.156Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:28:21.560Z - info: [ui] [Welcome] no sign in step found. ignoring...
+2023-08-20T09:29:00.292Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-08-20T09:29:00.302Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=dbe21666-9311-41b8-9ae5-6dd9d9e7e08c
+2023-08-20T09:29:01.367Z - info: [main] Received possible protocol arguments: 3
+2023-08-20T09:29:01.368Z - info: [main] Processing protocol url
+2023-08-20T09:29:01.369Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-08-20T09:29:01.464Z - info: [main] Received possible protocol arguments: 2
+2023-08-20T09:29:01.473Z - info: [main] Processing protocol url
+2023-08-20T09:29:02.637Z - info: [ui] [SignInStore] account resolved
+2023-08-20T09:29:02.638Z - info: [ui] [AppStore] adding account kajinmajin (kajinmajin) to store
+2023-08-20T09:29:02.646Z - error: [ui] Error adding account 'kajinmajin'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-08-20T09:31:27.123Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-08-20T09:31:27.138Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=a1a5fc22-28fe-4c83-991c-3c03d43fcd0e
+2023-08-20T09:31:28.190Z - info: [main] Received possible protocol arguments: 3
+2023-08-20T09:31:28.190Z - info: [main] Processing protocol url
+2023-08-20T09:31:28.191Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-08-20T09:31:28.284Z - info: [main] Received possible protocol arguments: 2
+2023-08-20T09:31:28.291Z - info: [main] Processing protocol url
+2023-08-20T09:31:30.200Z - info: [ui] [SignInStore] account resolved
+2023-08-20T09:31:30.201Z - info: [ui] [AppStore] adding account kajinmajin (kajinmajin) to store
+2023-08-20T09:31:30.215Z - error: [ui] Error adding account 'kajinmajin'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-08-20T09:32:29.551Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-08-20T09:32:29.607Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-20T09:32:29.617Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-20T09:32:31.131Z - info: [ui] Stats reported.
+2023-08-20T09:32:36.309Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-08-20T09:32:36.315Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=61197616-9d6a-474f-b0e3-1b1a938fe850
+2023-08-20T09:32:38.031Z - info: [main] Received possible protocol arguments: 3
+2023-08-20T09:32:38.031Z - info: [main] Processing protocol url
+2023-08-20T09:32:38.032Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-08-20T09:32:38.125Z - info: [main] Received possible protocol arguments: 2
+2023-08-20T09:32:38.131Z - info: [main] Processing protocol url
+2023-08-20T09:32:39.940Z - info: [ui] [SignInStore] account resolved
+2023-08-20T09:32:39.941Z - info: [ui] [AppStore] adding account kajinmajin (kajinmajin) to store
+2023-08-20T09:32:39.951Z - error: [ui] Error adding account 'kajinmajin'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-08-20T09:36:04.283Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-08-20T09:36:04.374Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-20T09:36:04.377Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-20T09:36:08.701Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-08-20T09:36:08.711Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=0a70076c-7754-4ca8-8bc5-724e6949d952
+2023-08-20T09:36:12.988Z - info: [main] Received possible protocol arguments: 3
+2023-08-20T09:36:12.988Z - info: [main] Processing protocol url
+2023-08-20T09:36:12.989Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-08-20T09:36:13.118Z - info: [main] Received possible protocol arguments: 2
+2023-08-20T09:36:13.123Z - info: [main] Processing protocol url
+2023-08-20T09:36:14.579Z - info: [ui] [SignInStore] account resolved
+2023-08-20T09:36:14.580Z - info: [ui] [AppStore] adding account kajinmajin (kajinmajin) to store
+2023-08-20T09:36:14.589Z - error: [ui] Error adding account 'kajinmajin'
+Error: The name org.freedesktop.secrets was not provided by any .service files
+2023-08-20T09:37:54.456Z - info: [ui] [SignInStore] initializing OAuth flow
+2023-08-20T09:37:54.466Z - info: [main] opening in browser: https://github.com/login/oauth/authorize?client_id=3a723b10ac5575cc5bb9&scope=repo%20user%20workflow&state=5c6875e0-f539-4ebc-ad60-221b7a410e92
+2023-08-20T09:37:55.808Z - info: [main] Received possible protocol arguments: 3
+2023-08-20T09:37:55.809Z - info: [main] Processing protocol url
+2023-08-20T09:37:55.811Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-08-20T09:37:55.931Z - info: [main] Received possible protocol arguments: 2
+2023-08-20T09:37:55.939Z - info: [main] Processing protocol url
+2023-08-20T09:37:57.087Z - info: [ui] [SignInStore] account resolved
+2023-08-20T09:37:57.088Z - info: [ui] [AppStore] adding account kajinmajin (kajinmajin) to store
+2023-08-20T09:38:07.635Z - info: [ui] Subscribed 'kajinmajin' to Alive channel
+2023-08-20T09:38:35.870Z - info: [main] Received possible protocol arguments: 2
+2023-08-20T09:38:35.887Z - info: [main] Processing protocol url
+2023-08-20T09:38:36.229Z - info: [ui] [AppStore] loading 0 repositories from store
+2023-08-20T09:38:36.230Z - info: [ui] [AppStore] found account: kajinmajin (kajinmajin)
+2023-08-20T09:38:36.234Z - info: [ui] Subscribed 'kajinmajin' to Alive channel
+2023-08-20T09:38:36.361Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-20T09:38:36.368Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-20T09:38:36.408Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-08-20T09:38:36.409Z - warn: [ui] requestAuthenticatedUser was not called with valid OAuth state. This is likely due to a browser reloading the callback URL. Contact GitHub Support if you believe this is an error
+2023-08-20T09:38:52.283Z - info: [ui] [AppStore.getAccountForRemoteURL] account found for remote: https://github.com/Krishesh/VidhyasDietERP.git - kajinmajin (has token)
+2023-08-20T09:39:02.122Z - info: [ui] Executing clone: git -c credential.helper= -c init.defaultBranch=main clone --recursive --progress -- https://github.com/Krishesh/VidhyasDietERP.git /home/eos/Documents/GitHub/VidhyasDietERP (took 9.833s)
+2023-08-20T09:39:02.154Z - info: [ui] [AppStore] adding repository at /home/eos/Documents/GitHub/VidhyasDietERP to store
+2023-08-20T09:39:03.086Z - info: [ui] [BranchPruner] No branches to prune.
+2023-08-20T09:41:21.706Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-20T09:41:22.773Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.049s)
+2023-08-20T09:41:23.778Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 3.0s of which 0.0s paused, total 3.0s
+2023-08-20T10:12:29.792Z - info: [ui] [RepositoryIndicatorUpdater]: Refreshing sidebar indicators for 1 repositories took 0.6s of which 0.0s paused, total 0.6s
+2023-08-20T10:12:56.640Z - info: [ui] [Timing] Action 'create commit' for 'Krishesh/VidhyasDietERP' took 0.157s
+2023-08-20T10:13:08.051Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-20T10:13:10.347Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.281s)
+2023-08-20T10:13:10.351Z - error: [ui] `git -c credential.helper= push origin main:main --progress` exited with an unexpected code: 1.
+stderr:
+Enumerating objects: 29, done.
+Counting objects:   3% (1/29)Counting objects:   6% (2/29)Counting objects:  10% (3/29)Counting objects:  13% (4/29)Counting objects:  17% (5/29)Counting objects:  20% (6/29)Counting objects:  24% (7/29)Counting objects:  27% (8/29)Counting objects:  31% (9/29)Counting objects:  34% (10/29)Counting objects:  37% (11/29)Counting objects:  41% (12/29)Counting objects:  44% (13/29)Counting objects:  48% (14/29)Counting objects:  51% (15/29)Counting objects:  55% (16/29)Counting objects:  58% (17/29)Counting objects:  62% (18/29)Counting objects:  65% (19/29)Counting objects:  68% (20/29)Counting objects:  72% (21/29)Counting objects:  75% (22/29)Counting objects:  79% (23/29)Counting objects:  82% (24/29)Counting objects:  86% (25/29)Counting objects:  89% (26/29)Counting objects:  93% (27/29)Counting objects:  96% (28/29)Counting objects: 100% (29/29)Counting objects: 100% (29/29), done.
+Delta compression using up to 12 threads
+Compressing objects:   3% (1/26)Compressing objects:   7% (2/26)Compressing objects:  11% (3/26)Compressing objects:  15% (4/26)Compressing objects:  19% (5/26)Compressing objects:  23% (6/26)Compressing objects:  26% (7/26)Compressing objects:  30% (8/26)Compressing objects:  34% (9/26)Compressing objects:  38% (10/26)Compressing objects:  42% (11/26)Compressing objects:  46% (12/26)Compressing objects:  50% (13/26)Compressing objects:  53% (14/26)Compressing objects:  57% (15/26)Compressing objects:  61% (16/26)Compressing objects:  65% (17/26)Compressing objects:  69% (18/26)Compressing objects:  73% (19/26)Compressing objects:  76% (20/26)Compressing objects:  80% (21/26)Compressing objects:  84% (22/26)Compressing objects:  88% (23/26)Compressing objects:  92% (24/26)Compressing objects:  96% (25/26)Compressing objects: 100% (26/26)Compressing objects: 100% (26/26), done.
+Writing objects:   3% (1/26)Writing objects:   7% (2/26)Writing objects:  11% (3/26)Writing objects:  15% (4/26)Writing objects:  23% (6/26)Writing objects:  26% (7/26)Writing objects:  30% (8/26)Writing objects:  34% (9/26)Writing objects:  38% (10/26)Writing objects:  42% (11/26)Writing objects:  46% (12/26)Writing objects:  50% (13/26)Writing objects:  53% (14/26)Writing objects:  57% (15/26)Writing objects:  61% (16/26)Writing objects:  65% (17/26)Writing objects:  69% (18/26)Writing objects:  73% (19/26)Writing objects:  76% (20/26)Writing objects:  80% (21/26)Writing objects:  84% (22/26)Writing objects:  88% (23/26)Writing objects:  92% (24/26)Writing objects:  96% (25/26)Writing objects: 100% (26/26)Writing objects: 100% (26/26), 10.24 KiB | 3.41 MiB/s, done.
+Total 26 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/4)        remote: Resolving deltas:  25% (1/4)        remote: Resolving deltas:  50% (2/4)        remote: Resolving deltas:  75% (3/4)        remote: Resolving deltas: 100% (4/4)        remote: Resolving deltas: 100% (4/4), completed with 2 local objects.        
+remote: error: GH007: Your push would publish a private email address.        
+remote: You can make your email public or disable this protection by visiting:        
+remote: http://github.com/settings/emails        
+To https://github.com/Krishesh/VidhyasDietERP.git
+ ! [remote rejected] main -> main (push declined due to email privacy restrictions)
+error: failed to push some refs to 'https://github.com/Krishesh/VidhyasDietERP.git'
+
+(The error was parsed as 49: Cannot push these commits as they contain an email address marked as private on GitHub. To push anyway, visit https://github.com/settings/emails, uncheck "Keep my email address private", then switch back to GitHub Desktop to push your commits. You can then enable the setting again.)
+2023-08-20T10:13:21.558Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-20T10:13:23.968Z - info: [ui] Executing push: git -c credential.helper= push origin main:main --progress (took 2.398s)
+2023-08-20T10:13:23.972Z - error: [ui] `git -c credential.helper= push origin main:main --progress` exited with an unexpected code: 1.
+stderr:
+Enumerating objects: 29, done.
+Counting objects:   3% (1/29)Counting objects:   6% (2/29)Counting objects:  10% (3/29)Counting objects:  13% (4/29)Counting objects:  17% (5/29)Counting objects:  20% (6/29)Counting objects:  24% (7/29)Counting objects:  27% (8/29)Counting objects:  31% (9/29)Counting objects:  34% (10/29)Counting objects:  37% (11/29)Counting objects:  41% (12/29)Counting objects:  44% (13/29)Counting objects:  48% (14/29)Counting objects:  51% (15/29)Counting objects:  55% (16/29)Counting objects:  58% (17/29)Counting objects:  62% (18/29)Counting objects:  65% (19/29)Counting objects:  68% (20/29)Counting objects:  72% (21/29)Counting objects:  75% (22/29)Counting objects:  79% (23/29)Counting objects:  82% (24/29)Counting objects:  86% (25/29)Counting objects:  89% (26/29)Counting objects:  93% (27/29)Counting objects:  96% (28/29)Counting objects: 100% (29/29)Counting objects: 100% (29/29), done.
+Delta compression using up to 12 threads
+Compressing objects:   3% (1/26)Compressing objects:   7% (2/26)Compressing objects:  11% (3/26)Compressing objects:  15% (4/26)Compressing objects:  19% (5/26)Compressing objects:  23% (6/26)Compressing objects:  26% (7/26)Compressing objects:  30% (8/26)Compressing objects:  34% (9/26)Compressing objects:  38% (10/26)Compressing objects:  42% (11/26)Compressing objects:  46% (12/26)Compressing objects:  50% (13/26)Compressing objects:  53% (14/26)Compressing objects:  57% (15/26)Compressing objects:  61% (16/26)Compressing objects:  65% (17/26)Compressing objects:  69% (18/26)Compressing objects:  73% (19/26)Compressing objects:  76% (20/26)Compressing objects:  80% (21/26)Compressing objects:  84% (22/26)Compressing objects:  88% (23/26)Compressing objects:  92% (24/26)Compressing objects:  96% (25/26)Compressing objects: 100% (26/26)Compressing objects: 100% (26/26), done.
+Writing objects:   3% (1/26)Writing objects:   7% (2/26)Writing objects:  11% (3/26)Writing objects:  15% (4/26)Writing objects:  23% (6/26)Writing objects:  26% (7/26)Writing objects:  30% (8/26)Writing objects:  34% (9/26)Writing objects:  38% (10/26)Writing objects:  42% (11/26)Writing objects:  46% (12/26)Writing objects:  50% (13/26)Writing objects:  53% (14/26)Writing objects:  57% (15/26)Writing objects:  61% (16/26)Writing objects:  65% (17/26)Writing objects:  69% (18/26)Writing objects:  73% (19/26)Writing objects:  76% (20/26)Writing objects:  80% (21/26)Writing objects:  84% (22/26)Writing objects:  88% (23/26)Writing objects:  92% (24/26)Writing objects:  96% (25/26)Writing objects: 100% (26/26)Writing objects: 100% (26/26), 10.24 KiB | 2.05 MiB/s, done.
+Total 26 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/4)        remote: Resolving deltas:  25% (1/4)        remote: Resolving deltas:  50% (2/4)        remote: Resolving deltas:  75% (3/4)        remote: Resolving deltas: 100% (4/4)        remote: Resolving deltas: 100% (4/4), completed with 2 local objects.        
+remote: error: GH007: Your push would publish a private email address.        
+remote: You can make your email public or disable this protection by visiting:        
+remote: http://github.com/settings/emails        
+To https://github.com/Krishesh/VidhyasDietERP.git
+ ! [remote rejected] main -> main (push declined due to email privacy restrictions)
+error: failed to push some refs to 'https://github.com/Krishesh/VidhyasDietERP.git'
+
+(The error was parsed as 49: Cannot push these commits as they contain an email address marked as private on GitHub. To push anyway, visit https://github.com/settings/emails, uncheck "Keep my email address private", then switch back to GitHub Desktop to push your commits. You can then enable the setting again.)
+2023-08-20T10:13:35.069Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-20T10:13:35.354Z - info: [ui] [Timing] Action 'create branch' for 'Krishesh/VidhyasDietERP' took 0.386s
+2023-08-20T10:14:02.926Z - info: [ui] [Timing] Action 'create commit' for 'Krishesh/VidhyasDietERP' took 0.170s
+2023-08-20T10:14:08.810Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-20T10:14:10.970Z - info: [ui] Executing push: git -c credential.helper= push origin authentication --set-upstream --progress (took 2.137s)
+2023-08-20T10:14:10.987Z - error: [ui] `git -c credential.helper= push origin authentication --set-upstream --progress` exited with an unexpected code: 1.
+stderr:
+Enumerating objects: 33, done.
+Counting objects:   3% (1/33)Counting objects:   6% (2/33)Counting objects:   9% (3/33)Counting objects:  12% (4/33)Counting objects:  15% (5/33)Counting objects:  18% (6/33)Counting objects:  21% (7/33)Counting objects:  24% (8/33)Counting objects:  27% (9/33)Counting objects:  30% (10/33)Counting objects:  33% (11/33)Counting objects:  36% (12/33)Counting objects:  39% (13/33)Counting objects:  42% (14/33)Counting objects:  45% (15/33)Counting objects:  48% (16/33)Counting objects:  51% (17/33)Counting objects:  54% (18/33)Counting objects:  57% (19/33)Counting objects:  60% (20/33)Counting objects:  63% (21/33)Counting objects:  66% (22/33)Counting objects:  69% (23/33)Counting objects:  72% (24/33)Counting objects:  75% (25/33)Counting objects:  78% (26/33)Counting objects:  81% (27/33)Counting objects:  84% (28/33)Counting objects:  87% (29/33)Counting objects:  90% (30/33)Counting objects:  93% (31/33)Counting objects:  96% (32/33)Counting objects: 100% (33/33)Counting objects: 100% (33/33), done.
+Delta compression using up to 12 threads
+Compressing objects:   3% (1/30)Compressing objects:   6% (2/30)Compressing objects:  10% (3/30)Compressing objects:  13% (4/30)Compressing objects:  16% (5/30)Compressing objects:  20% (6/30)Compressing objects:  23% (7/30)Compressing objects:  26% (8/30)Compressing objects:  30% (9/30)Compressing objects:  33% (10/30)Compressing objects:  36% (11/30)Compressing objects:  40% (12/30)Compressing objects:  43% (13/30)Compressing objects:  46% (14/30)Compressing objects:  50% (15/30)Compressing objects:  53% (16/30)Compressing objects:  56% (17/30)Compressing objects:  60% (18/30)Compressing objects:  63% (19/30)Compressing objects:  66% (20/30)Compressing objects:  70% (21/30)Compressing objects:  73% (22/30)Compressing objects:  76% (23/30)Compressing objects:  80% (24/30)Compressing objects:  83% (25/30)Compressing objects:  86% (26/30)Compressing objects:  90% (27/30)Compressing objects:  93% (28/30)Compressing objects:  96% (29/30)Compressing objects: 100% (30/30)Compressing objects: 100% (30/30), done.
+Writing objects:   3% (1/30)Writing objects:   6% (2/30)Writing objects:  10% (3/30)Writing objects:  13% (4/30)Writing objects:  16% (5/30)Writing objects:  23% (7/30)Writing objects:  26% (8/30)Writing objects:  30% (9/30)Writing objects:  33% (10/30)Writing objects:  36% (11/30)Writing objects:  40% (12/30)Writing objects:  43% (13/30)Writing objects:  46% (14/30)Writing objects:  50% (15/30)Writing objects:  53% (16/30)Writing objects:  56% (17/30)Writing objects:  60% (18/30)Writing objects:  63% (19/30)Writing objects:  66% (20/30)Writing objects:  70% (21/30)Writing objects:  73% (22/30)Writing objects:  76% (23/30)Writing objects:  80% (24/30)Writing objects:  83% (25/30)Writing objects:  86% (26/30)Writing objects:  90% (27/30)Writing objects:  93% (28/30)Writing objects:  96% (29/30)Writing objects: 100% (30/30)Writing objects: 100% (30/30), 10.51 KiB | 2.63 MiB/s, done.
+Total 30 (delta 7), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas:   0% (0/7)        remote: Resolving deltas:  14% (1/7)        remote: Resolving deltas:  28% (2/7)        remote: Resolving deltas:  42% (3/7)        remote: Resolving deltas:  57% (4/7)        remote: Resolving deltas:  71% (5/7)        remote: Resolving deltas:  85% (6/7)        remote: Resolving deltas: 100% (7/7)        remote: Resolving deltas: 100% (7/7), completed with 2 local objects.        
+remote: error: GH007: Your push would publish a private email address.        
+remote: You can make your email public or disable this protection by visiting:        
+remote: http://github.com/settings/emails        
+To https://github.com/Krishesh/VidhyasDietERP.git
+ ! [remote rejected] authentication -> authentication (push declined due to email privacy restrictions)
+error: failed to push some refs to 'https://github.com/Krishesh/VidhyasDietERP.git'
+
+(The error was parsed as 49: Cannot push these commits as they contain an email address marked as private on GitHub. To push anyway, visit https://github.com/settings/emails, uncheck "Keep my email address private", then switch back to GitHub Desktop to push your commits. You can then enable the setting again.)
+2023-08-20T10:16:03.225Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 2.334s)
+2023-08-20T10:16:05.761Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 2.534s)
+2023-08-20T10:16:08.163Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-20T10:16:15.606Z - info: [ui] Executing push: git -c credential.helper= push origin authentication --set-upstream --progress (took 7.426s)
+2023-08-20T10:16:19.590Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 3.981s)
+2023-08-20T10:16:21.639Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 2.031s)
+2023-08-20T10:16:29.646Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-20T10:16:32.186Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 2.533s)
+2023-08-20T10:16:33.917Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.729s)
+2023-08-20T10:16:51.951Z - info: [ui] [Timing] Action 'create commit' for 'Krishesh/VidhyasDietERP' took 0.155s
+2023-08-20T10:16:54.682Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-20T10:16:59.524Z - info: [ui] Executing push: git -c credential.helper= push origin authentication:authentication --progress (took 4.838s)
+2023-08-20T10:17:00.747Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.214s)
+2023-08-20T10:17:02.387Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.637s)
+2023-08-20T10:18:05.378Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-08-20T10:18:05.381Z - info: [ui] [AppStore] found account: kajinmajin (kajinmajin)
+2023-08-20T10:18:05.429Z - info: [ui] [BranchPruner] Last prune took place 39 minutes ago - skipping
+2023-08-20T10:18:05.916Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-20T10:18:05.916Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-20T10:18:06.648Z - info: [ui] Subscribed 'kajinmajin' to Alive channel
+2023-08-20T10:18:34.022Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-20T10:18:35.742Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.638s)
+2023-08-20T10:18:37.002Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.257s)
+2023-08-20T10:29:36.329Z - info: [main] Received possible protocol arguments: 3
+2023-08-20T10:29:36.331Z - info: [main] Processing protocol url
+2023-08-20T10:29:36.338Z - info: [ui] [Dispatcher] requesting authenticated user
+2023-08-20T10:29:36.339Z - warn: [ui] requestAuthenticatedUser was not called with valid OAuth state. This is likely due to a browser reloading the callback URL. Contact GitHub Support if you believe this is an error
+2023-08-20T10:29:36.450Z - info: [main] Received possible protocol arguments: 2
+2023-08-20T10:29:36.456Z - info: [main] Processing protocol url
+2023-08-20T10:49:18.430Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.076s)
+2023-08-20T10:49:21.077Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 2.645s)
+2023-08-20T11:52:09.680Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 15.368s)
+2023-08-20T11:52:36.903Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-20T11:52:39.101Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 2.150s)
+2023-08-20T11:52:40.611Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.508s)
+2023-08-20T12:23:16.108Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.019s)
+2023-08-20T12:23:17.137Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.022s)
+2023-08-20T12:54:28.139Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.581s)
+2023-08-20T12:54:29.350Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.202s)

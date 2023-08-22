@@ -1,0 +1,112 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="tuto" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="AUTO_DETECTED">
+      <summary usageCount="1" lastUsed="1692535790033" />
+    </fileType>
+    <fileType name="PLAIN_TEXT">
+      <summary usageCount="2" lastUsed="1692544549818" />
+    </fileType>
+    <fileType name="Python">
+      <summary usageCount="2" lastUsed="1692535851276" />
+    </fileType>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/tutorial/quickstart/serializers,py" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Python">
+      <summary usageCount="2" lastUsage="1692535851276" />
+    </language>
+    <language id="TEXT">
+      <summary usageCount="2" lastUsage="1692544549821" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="tuto-history">
+        <shellCommand>
+          <arg value="/bin/bash" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36965173" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.3296545" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Python Packages" order="5" weight="0.3296545" />
+      <window_info anchor="bottom" id="Python Console" order="6" weight="0.1" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="Database" order="1" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.25" />
+      <window_info anchor="right" id="Web Inspector" order="4" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="5" weight="0.1" />
+      <unified_weights bottom="0.3296545" left="0.36965173" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+      <value>Python Packages</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="846" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1692541438330">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="846" y="233" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1692541438330" />
+    <state x="867" y="207" key="SettingsEditor" timestamp="1692541906014">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="867" y="207" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1692541906014" />
+    <state x="1015" y="291" width="700" height="530" key="recent.locations.popup" timestamp="1692541580227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1015" y="291" width="700" height="530" key="recent.locations.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1692541580227" />
+    <state x="1029" y="256" key="search.everywhere.popup" timestamp="1692541577227">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1029" y="256" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1692541577227" />
+    <state x="1218" y="462" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1692545752236">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1218" y="462" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1692545752236" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/tutorial/quickstart/models.py" />
+    <entry file="file://$PROJECT_DIR$/tutorial/quickstart/serializers,py" />
+  </component>
+</project>

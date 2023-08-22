@@ -1,0 +1,49 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Documents/GitHub/tuto">
+          <value>
+            <RecentProjectMetaInfo frameTitle="tuto" projectWorkspaceId="2UFV54YZlzqCOP0IXbvg0mG56m9">
+              <option name="activationTimestamp" value="1692545769107" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-231.9161.41" />
+              <option name="buildTimestamp" value="1687506597116" />
+              <frame x="912" y="36" width="1005" height="1042" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1692545820940" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/PycharmProjects/pythonProject">
+          <value>
+            <RecentProjectMetaInfo frameTitle="pythonProject – registry.py" projectWorkspaceId="2UFrGBBQWES5X0VBcWqr25fapEq">
+              <option name="activationTimestamp" value="1692595508956" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-231.9161.41" />
+              <option name="buildTimestamp" value="1687506574735" />
+              <frame x="2" y="41" width="1052" height="1037" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1692595179077" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Documents/GitHub/VidhyasDietERP">
+          <value>
+            <RecentProjectMetaInfo frameTitle="VidhyasDietERP – urls.py" opened="true" projectWorkspaceId="2UFoIfJu4j3xGkVGfQE3GKdSojE">
+              <option name="activationTimestamp" value="1692729614552" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="PC-231.9161.41" />
+              <option name="buildTimestamp" value="1687506572370" />
+              <frame x="1058" y="559" width="860" height="519" />
+              <option name="productionCode" value="PC" />
+              <option name="projectOpenTimestamp" value="1692729518960" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Documents/GitHub/VidhyasDietERP" />
+    <option name="lastProjectLocation" value="$USER_HOME$/PycharmProjects" />
+  </component>
+</application>

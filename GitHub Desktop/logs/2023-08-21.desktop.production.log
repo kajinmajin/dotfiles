@@ -1,0 +1,67 @@
+2023-08-21T05:31:37.146Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-08-21T05:31:37.154Z - info: [ui] [AppStore] found account: kajinmajin (kajinmajin)
+2023-08-21T05:31:37.193Z - info: [ui] [BranchPruner] Last prune took place 20 hours ago - skipping
+2023-08-21T05:31:37.746Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-21T05:31:37.746Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-21T05:31:38.322Z - info: [ui] Subscribed 'kajinmajin' to Alive channel
+2023-08-21T05:31:43.894Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.314s)
+2023-08-21T05:31:45.014Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.118s)
+2023-08-21T05:31:47.641Z - info: [ui] No submodules found. Skipping "git submodule status"
+2023-08-21T05:32:26.751Z - info: [ui] No submodules found. Skipping "git submodule status"
+2023-08-21T06:02:27.647Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.068s)
+2023-08-21T06:02:28.972Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.310s)
+2023-08-21T06:28:17.829Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-21T06:28:19.130Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.293s)
+2023-08-21T06:28:20.245Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.113s)
+2023-08-21T14:13:21.902Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-08-21T14:13:21.919Z - info: [ui] [AppStore] found account: kajinmajin (kajinmajin)
+2023-08-21T14:13:23.761Z - info: [ui] Subscribed 'kajinmajin' to Alive channel
+2023-08-21T14:13:23.971Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-21T14:13:23.972Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-21T14:13:25.603Z - info: [ui] Stats reported.
+2023-08-21T14:13:34.171Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 3.702s)
+2023-08-21T14:13:35.308Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.135s)
+2023-08-21T14:13:39.554Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-21T14:13:41.526Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.932s)
+2023-08-21T14:13:41.531Z - error: [ui] `git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin` exited with an unexpected code: 1.
+stdout:
+Updating 0f5ad24..24a8428
+
+stderr:
+error: Your local changes to the following files would be overwritten by merge:
+	.idea/VidhyasDietERP.iml
+	.idea/misc.xml
+	VidhyasDietERP/__pycache__/settings.cpython-311.pyc
+	VidhyasDietERP/__pycache__/urls.cpython-311.pyc
+	VidhyasDietERP/settings.py
+	VidhyasDietERP/urls.py
+	authentication/__pycache__/models.cpython-311.pyc
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	vidhyas_api/__init__.py
+	vidhyas_api/__pycache__/__init__.cpython-311.pyc
+	vidhyas_api/admin.py
+	vidhyas_api/apps.py
+	vidhyas_api/migrations/__init__.py
+	vidhyas_api/models.py
+	vidhyas_api/serializers.py
+	vidhyas_api/tests.py
+	vidhyas_api/urls.py
+	vidhyas_api/views.py
+Please move or remove them before you merge.
+Aborting
+
+(The error was parsed as 53: null)
+2023-08-21T14:13:43.442Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.907s)
+2023-08-21T14:15:08.340Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-21T14:15:11.017Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 2.625s)
+2023-08-21T14:15:15.519Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 4.499s)
+2023-08-21T14:15:26.412Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-21T14:15:27.503Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.085s)
+2023-08-21T14:15:35.586Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 8.081s)
+2023-08-21T14:16:12.373Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-08-21T14:16:12.377Z - info: [ui] [AppStore] found account: kajinmajin (kajinmajin)
+2023-08-21T14:16:12.418Z - info: [ui] [BranchPruner] Last prune took place 3 minutes ago - skipping
+2023-08-21T14:16:12.902Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-21T14:16:12.903Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-21T14:16:13.433Z - info: [ui] Subscribed 'kajinmajin' to Alive channel

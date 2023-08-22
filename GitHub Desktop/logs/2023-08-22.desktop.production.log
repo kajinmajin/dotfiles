@@ -1,0 +1,173 @@
+2023-08-22T12:05:43.189Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-08-22T12:05:43.194Z - info: [ui] [AppStore] found account: kajinmajin (kajinmajin)
+2023-08-22T12:05:43.253Z - info: [ui] [BranchPruner] Last prune took place 22 hours ago - skipping
+2023-08-22T12:05:44.182Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-22T12:05:44.183Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-22T12:05:44.926Z - info: [ui] Subscribed 'kajinmajin' to Alive channel
+2023-08-22T12:05:48.340Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.716s)
+2023-08-22T12:05:53.327Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-22T12:05:55.176Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.781s)
+2023-08-22T12:05:55.178Z - error: [ui] `git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin` exited with an unexpected code: 1.
+stdout:
+Updating 24a8428..47784de
+
+stderr:
+error: Your local changes to the following files would be overwritten by merge:
+	.idea/VidhyasDietERP.iml
+	.idea/misc.xml
+	VidhyasDietERP/__pycache__/urls.cpython-311.pyc
+	db.sqlite3
+	vidhyas_api/__pycache__/views.cpython-311.pyc
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	vidhyas_api/__pycache__/urls.cpython-311.pyc
+Please move or remove them before you merge.
+Aborting
+
+(The error was parsed as 53: null)
+2023-08-22T12:05:58.754Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 3.574s)
+2023-08-22T12:06:00.908Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-22T12:06:02.913Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.937s)
+2023-08-22T12:06:02.914Z - error: [ui] `git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin` exited with an unexpected code: 1.
+stdout:
+Updating 24a8428..47784de
+
+stderr:
+error: Your local changes to the following files would be overwritten by merge:
+	.idea/VidhyasDietERP.iml
+	.idea/misc.xml
+	VidhyasDietERP/__pycache__/urls.cpython-311.pyc
+	db.sqlite3
+	vidhyas_api/__pycache__/views.cpython-311.pyc
+Please commit your changes or stash them before you merge.
+error: The following untracked working tree files would be overwritten by merge:
+	vidhyas_api/__pycache__/urls.cpython-311.pyc
+Please move or remove them before you merge.
+Aborting
+
+(The error was parsed as 53: null)
+2023-08-22T12:06:04.785Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.851s)
+2023-08-22T12:06:12.204Z - info: [ui] No submodules found. Skipping "git submodule status"
+2023-08-22T12:06:15.555Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-22T12:06:17.462Z - info: [ui] Executing pull: git -c credential.helper= -c rebase.backend=merge pull --ff --recurse-submodules --progress origin (took 1.842s)
+2023-08-22T12:06:19.076Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.612s)
+2023-08-22T12:06:25.548Z - info: [ui] [AppStore. _dropStashEntry] dropped stash with commit id 0eaa378588dd4525fc34dbdec690ffda4c535251
+2023-08-22T12:06:28.011Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-22T12:06:30.486Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 2.469s)
+2023-08-22T12:06:31.637Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.148s)
+2023-08-22T12:34:20.948Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-08-22T12:34:20.951Z - info: [ui] [AppStore] found account: kajinmajin (kajinmajin)
+2023-08-22T12:34:20.991Z - info: [ui] [BranchPruner] Last prune took place 22 hours ago - skipping
+2023-08-22T12:34:21.508Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-22T12:34:21.512Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-22T12:34:21.549Z - info: [ui] Subscribed 'kajinmajin' to Alive channel
+2023-08-22T12:34:38.887Z - info: [ui] [Timing] Action 'create commit' for 'Krishesh/VidhyasDietERP' took 0.174s
+2023-08-22T12:34:41.493Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: VidhyasDietERP - kajinmajin (has token)
+2023-08-22T12:34:43.640Z - info: [ui] Executing push: git -c credential.helper= push origin authentication:authentication --progress (took 2.129s)
+2023-08-22T12:34:44.948Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.296s)
+2023-08-22T12:34:46.756Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.807s)
+2023-08-22T12:37:33.475Z - warn: [ui] failed fetching open PRs for repository Krishesh/VidhyasDietERP
+TypeError: Failed to fetch
+    at xt (/home/eos/webpack:/app/src/lib/http.ts:152:10)
+    at gn.request (/home/eos/webpack:/app/src/lib/api.ts:1603:28)
+    at gn.fetchAll (/home/eos/webpack:/app/src/lib/api.ts:1573:45)
+    at gn.fetchAllOpenPullRequests (/home/eos/webpack:/app/src/lib/api.ts:1054:25)
+    at KP.constructor.fetchAndStoreOpenPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:110:28)
+    at KP.constructor.fetchAndStorePullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:99:19)
+    at Object.refreshPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-coordinator.ts:158:45)
+2023-08-22T12:37:33.479Z - error: [ui] Error refreshing pull requests for 'Krishesh/VidhyasDietERP'
+TypeError: Failed to fetch
+    at xt (/home/eos/webpack:/app/src/lib/http.ts:152:10)
+    at gn.request (/home/eos/webpack:/app/src/lib/api.ts:1603:28)
+    at gn.fetchAll (/home/eos/webpack:/app/src/lib/api.ts:1573:45)
+    at gn.fetchAllOpenPullRequests (/home/eos/webpack:/app/src/lib/api.ts:1054:25)
+    at KP.constructor.fetchAndStoreOpenPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:110:28)
+    at KP.constructor.fetchAndStorePullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:99:19)
+    at Object.refreshPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-coordinator.ts:158:45)
+2023-08-22T13:05:38.197Z - warn: [ui] failed fetching open PRs for repository Krishesh/VidhyasDietERP
+TypeError: Failed to fetch
+    at xt (/home/eos/webpack:/app/src/lib/http.ts:152:10)
+    at gn.request (/home/eos/webpack:/app/src/lib/api.ts:1603:28)
+    at gn.fetchAll (/home/eos/webpack:/app/src/lib/api.ts:1573:45)
+    at gn.fetchAllOpenPullRequests (/home/eos/webpack:/app/src/lib/api.ts:1054:25)
+    at KP.constructor.fetchAndStoreOpenPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:110:28)
+    at KP.constructor.fetchAndStorePullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:99:19)
+    at Object.refreshPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-coordinator.ts:158:45)
+2023-08-22T13:05:38.199Z - error: [ui] Error refreshing pull requests for 'Krishesh/VidhyasDietERP'
+TypeError: Failed to fetch
+    at xt (/home/eos/webpack:/app/src/lib/http.ts:152:10)
+    at gn.request (/home/eos/webpack:/app/src/lib/api.ts:1603:28)
+    at gn.fetchAll (/home/eos/webpack:/app/src/lib/api.ts:1573:45)
+    at gn.fetchAllOpenPullRequests (/home/eos/webpack:/app/src/lib/api.ts:1054:25)
+    at KP.constructor.fetchAndStoreOpenPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:110:28)
+    at KP.constructor.fetchAndStorePullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:99:19)
+    at Object.refreshPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-coordinator.ts:158:45)
+2023-08-22T13:07:09.965Z - error: [ui] `git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin` exited with an unexpected code: 128.
+stderr:
+fatal: unable to access 'https://github.com/Krishesh/VidhyasDietERP.git/': Could not resolve host: github.com
+
+2023-08-22T13:07:10.060Z - info: [ui] [fetchPushControl] unable to check if branch is potentially pushable
+TypeError: Failed to fetch
+    at xt (/home/eos/webpack:/app/src/lib/http.ts:152:10)
+    at gn.request (/home/eos/webpack:/app/src/lib/api.ts:1603:28)
+    at gn.fetchPushControl (/home/eos/webpack:/app/src/lib/api.ts:1519:35)
+    at Vn.refreshBranchProtectionState (/home/eos/webpack:/app/src/lib/stores/app-store.ts:1148:37)
+    at /home/eos/webpack:/app/src/lib/stores/app-store.ts:4861:20
+    at Vn.withPushPullFetch (/home/eos/webpack:/app/src/lib/stores/app-store.ts:4371:5)
+    at Vn.performFetch (/home/eos/webpack:/app/src/lib/stores/app-store.ts:4812:5)
+    at Eo.performAndScheduleFetch (/home/eos/webpack:/app/src/lib/stores/helpers/background-fetcher.ts:102:7)
+2023-08-22T13:07:10.242Z - warn: [ui] getFetchPollInterval: failed for Krishesh/VidhyasDietERP
+TypeError: Failed to fetch
+    at xt (/home/eos/webpack:/app/src/lib/http.ts:152:10)
+    at gn.request (/home/eos/webpack:/app/src/lib/api.ts:1603:28)
+    at gn.getFetchPollInterval (/home/eos/webpack:/app/src/lib/api.ts:1641:35)
+    at Eo.getFetchInterval (/home/eos/webpack:/app/src/lib/stores/helpers/background-fetcher.ts:136:38)
+    at Eo.performAndScheduleFetch (/home/eos/webpack:/app/src/lib/stores/helpers/background-fetcher.ts:117:33)
+2023-08-22T13:27:20.191Z - warn: [ui] failed fetching open PRs for repository Krishesh/VidhyasDietERP
+TypeError: Failed to fetch
+    at xt (/home/eos/webpack:/app/src/lib/http.ts:152:10)
+    at gn.request (/home/eos/webpack:/app/src/lib/api.ts:1603:28)
+    at gn.fetchAll (/home/eos/webpack:/app/src/lib/api.ts:1573:45)
+    at gn.fetchAllOpenPullRequests (/home/eos/webpack:/app/src/lib/api.ts:1054:25)
+    at KP.constructor.fetchAndStoreOpenPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:110:28)
+    at KP.constructor.fetchAndStorePullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:99:19)
+    at Object.refreshPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-coordinator.ts:158:45)
+2023-08-22T13:27:20.193Z - error: [ui] Error refreshing pull requests for 'Krishesh/VidhyasDietERP'
+TypeError: Failed to fetch
+    at xt (/home/eos/webpack:/app/src/lib/http.ts:152:10)
+    at gn.request (/home/eos/webpack:/app/src/lib/api.ts:1603:28)
+    at gn.fetchAll (/home/eos/webpack:/app/src/lib/api.ts:1573:45)
+    at gn.fetchAllOpenPullRequests (/home/eos/webpack:/app/src/lib/api.ts:1054:25)
+    at KP.constructor.fetchAndStoreOpenPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:110:28)
+    at KP.constructor.fetchAndStorePullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-store.ts:99:19)
+    at Object.refreshPullRequests (/home/eos/webpack:/app/src/lib/stores/pull-request-coordinator.ts:158:45)
+2023-08-22T15:31:13.474Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-08-22T15:31:13.479Z - info: [ui] [AppStore] found account: kajinmajin (kajinmajin)
+2023-08-22T15:31:13.902Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.10-arch1-1)
+2023-08-22T15:31:13.905Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-22T15:31:15.114Z - info: [ui] Subscribed 'kajinmajin' to Alive channel
+2023-08-22T15:31:21.157Z - info: [ui] Stats reported.
+2023-08-22T15:31:33.259Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.632s)
+2023-08-22T15:31:40.622Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 7.361s)
+2023-08-22T16:03:43.867Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.159s)
+2023-08-22T16:03:45.398Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.528s)
+2023-08-22T17:07:37.787Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.260s)
+2023-08-22T17:07:39.105Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.304s)
+2023-08-22T17:39:39.744Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.063s)
+2023-08-22T17:39:41.292Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.540s)
+2023-08-22T18:40:38.216Z - info: [ui] [AppStore] loading 1 repositories from store
+2023-08-22T18:40:38.225Z - info: [ui] [AppStore] found account: kajinmajin (kajinmajin)
+2023-08-22T18:40:38.285Z - info: [ui] [BranchPruner] Last prune took place 3 hours ago - skipping
+2023-08-22T18:40:39.203Z - info: [ui] launching: 3.2.7-linux2 (Linux 6.4.11-arch2-1)
+2023-08-22T18:40:39.204Z - info: [ui] execPath: '/opt/github-desktop/github-desktop'
+2023-08-22T18:40:40.005Z - info: [ui] Subscribed 'kajinmajin' to Alive channel
+2023-08-22T18:40:56.595Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.393s)
+2023-08-22T18:40:58.025Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.429s)
+2023-08-22T18:43:47.106Z - info: [ui] [AppStore] adding repository at /home/eos/.config/dotfile to store
+2023-08-22T18:44:00.902Z - info: [ui] Executing push: git -c credential.helper= push origin main --set-upstream --progress (took 3.345s)
+2023-08-22T18:44:02.530Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 1.623s)
+2023-08-22T18:44:06.004Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 3.471s)
+2023-08-22T18:44:07.990Z - info: [ui] [BranchPruner] No branches to prune.
+2023-08-22T18:44:47.507Z - info: [ui] [AppStore.withAuthenticatingUser] account found for repository: dotfile - kajinmajin (has token)
+2023-08-22T18:44:49.523Z - info: [ui] Executing fetch: git -c credential.helper= fetch --progress --prune --recurse-submodules=on-demand origin (took 2.007s)
+2023-08-22T18:44:51.048Z - info: [ui] Executing updateRemoteHEAD: git -c credential.helper= remote set-head -a origin (took 1.522s)
